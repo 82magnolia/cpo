@@ -19,4 +19,4 @@ To run the codebase, you need [Anaconda](https://www.anaconda.com/). Once you ha
     conda install cudatoolkit=10.1
 
 ### Running
-Please refer to the comments provided in `fast_histogram_generation(...)` from `fast_histogram.py` for running the fast histogram generation code.
+Please refer to the comments provided in `fast_histogram_generation(...)` from `fast_histogram.py` for using the fast histogram generation code.
