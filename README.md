@@ -1,7 +1,7 @@
 # CPO: Change-Robust Panorama to Point Cloud Localization
 Official PyTorch implementation of **CPO: Change Robust Panorama to Point Cloud Localization (ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2207.05317.pdf)
 
-[<img src="piccolo_overview.jpg" width="500"/>](piccolo_overview.jpg)\
+[<img src="cpo_overview.jpg" width="500"/>](cpo_overview.jpg)\
 CPO is a fast and robust algorithm for localizing a 2D panorama against a 3D point cloud possibly containing changes.
 Instead of focusing on sparse feature points, we make use of the dense color measurements provided from the panorama images.
 Specifically, we propose efficient color histogram generation and subsequent robust localization using score maps defined over 2D and 3D.
