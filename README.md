@@ -25,14 +25,12 @@ Please refer to the comments provided in `fast_histogram_generation(...)` from `
 If you find this repository useful, please cite
 
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2207.05317,
-  doi = {10.48550/ARXIV.2207.05317},
-  url = {https://arxiv.org/abs/2207.05317},
-  author = {Kim, Junho and Jang, Hojun and Choi, Changwoon and Kim, Young Min},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {CPO: Change Robust Panorama to Point Cloud Localization},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{kim2022cpo,
+    title={CPO: Change-Robust Panorama to Point Cloud Localization},
+    author={Kim, Junho and Jang, Hojun 
+            and Choi, Changwoon and Kim, Young Min},
+    booktitle={European Conference on Computer Vision},
+    year={2022},
+    organization={Springer}
 }
 ```
