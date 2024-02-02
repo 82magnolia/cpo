@@ -1,4 +1,6 @@
 # CPO: Change-Robust Panorama to Point Cloud Localization
+:star2: **Update** :star2: Check out the [panoramic localization library](https://github.com/82magnolia/panoramic-localization), which contains implementations of numerous panoramic localization algorithms including CPO. Plus, it is more user-friendly than this repository!
+
 Official PyTorch implementation of **CPO: Change Robust Panorama to Point Cloud Localization (ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2207.05317.pdf)
 
 [<img src="cpo_overview.png" width="700"/>](cpo_overview.png)\
